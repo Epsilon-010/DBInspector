@@ -1,0 +1,18 @@
+node_modules
+dist
+.vite
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+
+# Editor / OS
+.vscode
+.idea
+.DS_Store
+*.swp
+
+# Tests / caches we don't need at build time
+coverage
+.cache
