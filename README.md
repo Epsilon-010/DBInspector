@@ -1,6 +1,6 @@
 # DBInspector
 
-[![CI](https://github.com/OWNER/REPO/actions/workflows/ci.yml/badge.svg)](https://github.com/OWNER/REPO/actions/workflows/ci.yml)
+[![CI](https://github.com/Epsilon-010/DBInspector/actions/workflows/ci.yml/badge.svg)](https://github.com/Epsilon-010/DBInspector/actions/workflows/ci.yml)
 
 Ask a Postgres database a question in plain Spanish. Get back the SQL it generated,
 the data, a chart, and a short executive summary, all streamed live as the
